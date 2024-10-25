@@ -8,7 +8,7 @@ This site is built using [Hugo](https://gohugo.io/), a fast and flexible static 
 
 ### Prerequisites
 
-- Hugo (extended version) [version]
+- Hugo (extended version) 0.111.3
 - Git
 
 ### Local Development
@@ -25,7 +25,11 @@ This site is built using [Hugo](https://gohugo.io/), a fast and flexible static 
    ```
    hugo server -D
    ```
-4. Open your browser and visit http://localhost:1313
+4. Open your browser and visit http://localhost:1313/ecologygames/
+
+## Deployment
+
+This site is automatically deployed to GitHub Pages when changes are pushed to the main branch.
 
 ## Contributing
 

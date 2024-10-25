@@ -1,4 +1,4 @@
-baseURL = 'https://ecologygames.eu/'
+baseURL = 'https://gameologist.com/ecologygames/'
 languageCode = 'en-gb'
 title = 'Ecology Games'
 theme = 'hugo-scroll'
