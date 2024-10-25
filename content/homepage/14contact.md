@@ -18,3 +18,14 @@ weight: 14
 # into the header menu at the top of the homepage.
 header_menu: true
 ---
+
+
+{{<icon class="fa fa-envelope">}}&nbsp;[games@paidia.fun](mailto:games@paidia.fun)
+{{<icon class="fa fa-phone">}}&nbsp;[+44 7595 393964](tel:+447595393964)
+
+
+
+
+<!-- 
+Want to learn more about getting your hands on this game check [dedicated page](services) for more details. 
+-->
