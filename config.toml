@@ -1,0 +1,24 @@
+baseURL = 'https://ecologygames.eu/'
+languageCode = 'en-gb'
+title = 'Ecology Games'
+theme = 'hugo-scroll'
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "Educational games about ecology and the environment"
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/
+  background_color_class = "bg-green"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 3
