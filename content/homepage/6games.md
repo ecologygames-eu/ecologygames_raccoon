@@ -21,7 +21,9 @@ header_menu: true
 
 Two distinct games were developed to explore invasive species management across Europe, each with unique objectives and audiences.
 
+- **European BioInvasions** – Created by a team of game designers and academics, this role-playing game (RPG) models various invasive species and scenarios to engage players in realistic ecological policy challenges. Guided by a Game Master (GM), players—representing stakeholder roles—work within future European scenarios to propose and pass management actions that mitigate invasive species impacts. The game proceeds in rounds, where players generate, vote on, and implement strategies, with the GM narrating outcomes and impacts on biodiversity and ecosystem services. Final scoring and scenario comparisons reveal the effectiveness of players' interventions, offering a robust tool for understanding invasive species management complexities.
+
 - **BioInvaders: Raccoon Rampage** – This board game is a semi-cooperative experience for players aged 12 and up, where they adopt roles to strategise and control invasive raccoon populations across Europe. Combining social negotiation and competitive dynamics, the game uses policy and action cards to balance personal goals with a group mission, illustrating the complex socio-ecological issues surrounding invasive species.
 
-- **European BioInvasions** – Created by a team of game designers and academics, this role-playing game (RPG) models various invasive species and scenarios to engage players in realistic ecological policy challenges. Guided by a Game Master (GM), players—representing stakeholder roles—work within future European scenarios to propose and pass management actions that mitigate invasive species impacts. The game proceeds in rounds, where players generate, vote on, and implement strategies, with the GM narrating outcomes and impacts on biodiversity and ecosystem services. Final scoring and scenario comparisons reveal the effectiveness of players' interventions, offering a robust tool for understanding invasive species management complexities.
+
 
