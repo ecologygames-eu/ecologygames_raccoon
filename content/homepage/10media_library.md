@@ -19,4 +19,4 @@ weight: 10
 header_menu: true
 ---
 
-This is just another section to appear on the homepage.
+we can link to youtubes of lectures or video explainers etc
