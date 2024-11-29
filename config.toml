@@ -1,4 +1,4 @@
-baseURL = 'https://gameologist.com/ecologygames/'
+baseURL = 'https://paidia.design/'
 languageCode = 'en-gb'
 title = 'Ecology Games'
 theme = 'hugo-scroll'
