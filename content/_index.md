@@ -11,5 +11,5 @@ header_logo: "images/bw_logo.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "BioInvaders! raccoon rampage"
-header_subheadline: "A semi-cooperative strategy game where players navigate alliances and rivalries to manage the raccoon invasion in Europe."
+header_subheadline: "A semi-cooperative strategy boardgame where players navigate alliances and rivalries to manage the raccoon invasion in Europe."
 ---
