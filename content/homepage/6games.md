@@ -1,29 +1,64 @@
 ---
-title: 'Games'
-
-# The "header_menu_title" value will be used as text for header buttons.
-# The "title" value will be used if value for "header_menu_title" is not provided.
-#header_menu_title: 'Short Menu Title'
-
-# The "navigation_menu_title" value will be used as text for fixed menu items.
-# The "title" value will be used if value for "navigation_menu_title" is not provided.
-#navigation_menu_title: 'Short Menu Title'
-
-# The "weight" will determine where this section appears on the "homepage".
-# A bigger weight will place the content more towards the bottom of the page.
-# It's like gravity ;-).
+title: "the game"
+header_menu_title: "The Game"
+navigation_menu_title: "The Game"
 weight: 6
-
-# If "header_menu" is true, then a button linking to this section will be placed
-# into the header menu at the top of the homepage.
 header_menu: true
 ---
 
-Two distinct games were developed to explore invasive species management across Europe, each with unique objectives and audiences.
+<!--
+Feature notice: This section displays options to customize title:
+- has a normal section title (`title` = "Raccoon Rampge: Deluxe Edition"),
+- custom welcome screen title (`header_menu_title` = "CustomWelcomeTitle"),
+- custom navigation menu title (`navigation_menu_title` = "CustomNav menu").
 
-- **European BioInvasions** – Created by a team of game designers and academics, this role-playing game (RPG) models various invasive species and scenarios to engage players in realistic ecological policy challenges. Guided by a Game Master (GM), players—representing stakeholder roles—work within future European scenarios to propose and pass management actions that mitigate invasive species impacts. The game proceeds in rounds, where players generate, vote on, and implement strategies, with the GM narrating outcomes and impacts on biodiversity and ecosystem services. Final scoring and scenario comparisons reveal the effectiveness of players' interventions, offering a robust tool for understanding invasive species management complexities.
+That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
+-->
 
-- **BioInvaders: Raccoon Rampage** – This board game is a semi-cooperative experience for players aged 12 and up, where they adopt roles to strategise and control invasive raccoon populations across Europe. Combining social negotiation and competitive dynamics, the game uses policy and action cards to balance personal goals with a group mission, illustrating the complex socio-ecological issues surrounding invasive species.
+---
+Raccoons have invaded Europe (🦝) and they're destroying all of our stuff! In this fast paced, semi-cooperative game you will work together to stop Raccoons from messing up our houses, eating our local wildlife, and causing mischief at the same time as trying to make sure YOU come out on top.
+
+![image of Raccoon Rampage on a table](images/glamourshot.jpg)
+
+Raccoon Rampage is a semi-cooperative game where players work together to stop raccoons from spreading further within Europe and destroying all of our stuff.
+
+It features a mix of strategic planning and social negotiation.  You pick policies to put into a queue, vote on policies *in* the queue, and dabble in chaos using action cards that manipulate things in your favour.  
+
+What's unique about the experience is that *yes* you have to work together.  But you also want to *beat everyone else*!
+
+Like Pandemic, you'll work with other players to stop the spread of a (raccoon) invasion.  But unlike Pandemic you individually want to win.  This means a lot of backstabbing that can lead to everyone failing, but if you play too nice... you're not going to win!
+
+Key features:
+* ages 12+
+* 3 or 4 player
+* 45 - 60 mins
+* over 160 beautiful cards
+* four storylines (that can be mashed up)
+* a large game board
+* four unique player roles, each with a unique deck and player mat
+
+![image of Raccoon Rampage back of box](images/back_of_box.png)
+
+## Four player decks made of policy and action cards
 
 
+Each unique deck is a mix of **policy** and **action** cards.  On your turn, put a policy card into a queue that you and the other players can vote on.  If a card gets enough votes, we move towards victory as a group but of course, each player wants *their* policies to win so they might not vote for you.
 
+![image of policy cards](images/policy_cards.jpg)
+Each deck has a mix of standard and unique policy cards (black border).
+
+Action cards let you *mess* with other players.  Whether it's stealing votes, swapping policies or manipulating the results of a vote, strategic decisions on when to play these powerful cards is crucial for success.
+
+![image of action cards](images/action_cards.jpg)
+Each deck also has a mix of standard and unique action cards (white border).
+
+
+## Four storylines that can be mashed up for variations
+
+![image of story cards](images/story_cards.jpg)
+Every round a new story card is flipped.  These story cards put pressure on players to work together and put their personal goals in conflict with the group mission.  Every vote counts - do we act on the story event for immediate benefit? Or do we instead invest in longer term goals?
+
+
+<!-- 
+Want to learn more about getting your hands on this game check [dedicated page](services) for more details. 
+-->
