@@ -1,5 +1,5 @@
 ---
-title: 'Media Library'
+title: 'media library'
 
 # The "header_menu_title" value will be used as text for header buttons.
 # The "title" value will be used if value for "header_menu_title" is not provided.
@@ -19,4 +19,4 @@ weight: 10
 header_menu: true
 ---
 
-we can link to youtubes of lectures or video explainers etc
+{{< youtube jk9_a2I5_N8 >}}
