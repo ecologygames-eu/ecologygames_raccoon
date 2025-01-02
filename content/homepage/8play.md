@@ -22,11 +22,11 @@ header_menu: true
 ![Play on Tabletopia](images/tabletopia.png)
 
 
-You can [play our game on Tabletopia](https://tabletopia.com/games/european-bioinvasions-raccoon-68a54u/play-now). It's completely free. It should work on most computers and in most web browsers. 
+You can [play our game on Tabletopia](https://tabletopia.com/games/european-bioinvasions-raccoon-68a54u/play-now) or print and play it at home. Either way, it's completely free.  
 
-We find it works best in Chrome. It's hard to play with a trackpad so try to find a mouse if you can.
+Playing the game on Tabletopia should work on most computers and in most web browsers. We find it works best in Chrome. It's hard to play with a trackpad so try to find a mouse if you can.
 
-The online version doesn't implement the rules of the game, so you'll need to learn and run the game yourself.
+The online version doesn't automatically implement the rules of the game, so you'll need to learn and run the game yourself.
 
 You can download the rulebook [here](https://drive.google.com/file/d/14Nng7MsOQp2H0pkIXKGODv16xZxWK8lO/view?usp=sharing) and watch a video explanation below.
 

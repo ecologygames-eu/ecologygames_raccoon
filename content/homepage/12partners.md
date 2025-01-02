@@ -30,7 +30,7 @@ header_menu: true
 This game was a collaboration between Paidia and an amazing group of Scientist Contributors including:
 
 
-{{<icon class="fa-solid fa-microscope">}}&nbsp;[Wolf-Christian Saul](https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/zoologie/ag_jeschke/mitarbeiter/saul/index.html), Freie Universität Berlin & Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany
+{{<icon class="fa-solid fa-microscope">}}&nbsp;[Wolf-Christian Saul](mailto:wcsaul@gmx.net), Freie Universität Berlin & Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany
 
 {{<icon class="fa-solid fa-microscope">}}&nbsp;[Sophia Kimmig](https://sophia-kimmig.de/), Freie Universität Berlin & Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany
 

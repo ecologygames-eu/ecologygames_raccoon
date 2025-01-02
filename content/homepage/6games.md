@@ -16,26 +16,24 @@ That is the important part, right? You want to know what I can do for you. This 
 -->
 
 ---
-Raccoons have invaded Europe (🦝) and they're destroying all of our stuff! In this fast paced, semi-cooperative game you will work together to stop Raccoons from messing up our houses, eating our local wildlife, and causing mischief at the same time as trying to make sure YOU come out on top.
+Raccoons have invaded Europe (🦝) and they're destroying so much stuff! In this fast paced, semi-cooperative game you will work together with other players to stop raccoons from messing up our houses, eating our local wildlife, and causing mischief. At the same time you'll try to make sure YOU come out on top.
 
 ![image of Raccoon Rampage on a table](images/glamourshot.jpg)
 
-Raccoon Rampage is a semi-cooperative game where players work together to stop raccoons from spreading further within Europe and destroying all of our stuff.
+BioInvaders! Raccoon Rampage features a mix of strategic planning and social negotiation.  You pick policies to put into a queue, vote on policies *in* the queue, and dabble in chaos using action cards that manipulate things in your favour.  
 
-It features a mix of strategic planning and social negotiation.  You pick policies to put into a queue, vote on policies *in* the queue, and dabble in chaos using action cards that manipulate things in your favour.  
+What's unique about the experience is that *yes* you have to work together - BUT you also want to *beat everyone else*!
 
-What's unique about the experience is that *yes* you have to work together.  But you also want to *beat everyone else*!
-
-Like Pandemic, you'll work with other players to stop the spread of a (raccoon) invasion.  But unlike Pandemic you individually want to win.  This means a lot of backstabbing that can lead to everyone failing, but if you play too nice... you're not going to win!
+Like Pandemic, you'll work with other players to stop the spread of a (raccoon) invasion.  But unlike Pandemic you individually want to win.  This means a lot of backstabbing which can lead to everyone failing, but if you play too nice... you're not going to win!
 
 Key features:
 * ages 12+
 * 3 or 4 player
 * 45 - 60 mins
-* over 160 beautiful cards
-* four storylines (that can be mashed up)
+* over 160 beautiful cards with unique artwork
+* four storylines (that can be mashed up) based on research into plausible European futures
 * a large game board
-* four unique player roles, each with a unique deck and player mat
+* four unique player roles, each with their own objective, unique deck and player mat
 
 ![image of Raccoon Rampage back of box](images/back_of_box.png)
 
