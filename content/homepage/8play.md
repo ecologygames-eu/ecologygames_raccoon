@@ -21,6 +21,7 @@ header_menu: true
 
 ![Play on Tabletopia](images/tabletopia.png)
 
+Coming soon: Buy a copy of BioInvaders! Raccoon Rampage
 
 You can [play our game on Tabletopia](https://tabletopia.com/games/european-bioinvasions-raccoon-68a54u/play-now) or print and play it at home. Either way, it's completely free.  
 
