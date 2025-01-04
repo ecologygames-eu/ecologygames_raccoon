@@ -20,7 +20,7 @@ Raccoons have invaded Europe (🦝) and they're destroying so much stuff! In thi
 
 ![image of Raccoon Rampage on a table](images/glamourshot.jpg)
 
-BioInvaders! Raccoon Rampage features a mix of strategic planning and social negotiation.  You pick policies to put into a queue, vote on policies *in* the queue, and dabble in chaos using action cards that manipulate things in your favour.  
+BioInvaders! Raccoon Rampage features a mix of strategic planning and social negotiation.  Playing as 1 of 4 unique roles, from Hunter to Animal Rights Activist, you pick policies to put into a queue, vote on policies *in* the queue, and dabble in chaos using action cards that manipulate things in your favour.  
 
 What's unique about the experience is that *yes* you have to work together - BUT you also want to *beat everyone else*!
 
