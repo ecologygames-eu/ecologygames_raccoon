@@ -42,18 +42,18 @@ Key features:
 
 Each unique deck is a mix of **policy** and **action** cards.  On your turn, put a policy card into a queue that you and the other players can vote on.  If a card gets enough votes, we move towards victory as a group but of course, each player wants *their* policies to win so they might not vote for you.
 
-![image of policy cards](images/policy_cards.jpg)
+![image of policy cards](images/policy_cards.png)
 Each deck has a mix of standard and unique policy cards (black border).
 
 Action cards let you *mess* with other players.  Whether it's stealing votes, swapping policies or manipulating the results of a vote, strategic decisions on when to play these powerful cards is crucial for success.
 
-![image of action cards](images/action_cards.jpg)
+![image of action cards](images/action_cards.png)
 Each deck also has a mix of standard and unique action cards (white border).
 
 
 ## Four storylines that can be mashed up for variations
 
-![image of story cards](images/story_cards.jpg)
+![image of story cards](images/story_cards.png)
 Every round a new story card is flipped.  These story cards put pressure on players to work together and put their personal goals in conflict with the group mission.  Every vote counts - do we act on the story event for immediate benefit? Or do we instead invest in longer term goals?
 
 
