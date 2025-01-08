@@ -24,7 +24,7 @@ BioInvaders! Raccoon Rampage features a mix of strategic planning and social neg
 
 What's unique about the experience is that *yes* you have to work together - BUT you also want to *beat everyone else*!
 
-Like Pandemic, you'll work with other players to stop the spread of a (raccoon) invasion.  But unlike Pandemic you individually want to win.  This means a lot of backstabbing which can lead to everyone failing, but if you play too nice... you're not going to win!
+Like in [Pandemic](https://boardgamegeek.com/boardgame/30549/pandemic), you'll work with other players to stop the spread of a (raccoon) invasion.  But unlike Pandemic you individually want to win.  This means a lot of backstabbing which can lead to everyone failing, but if you play too nice... you're not going to win!
 
 Key features:
 * ages 12+
