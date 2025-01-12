@@ -1,7 +1,12 @@
-baseURL = 'https://paidia.design/'
+baseURL = 'https://raccoonrampage.ecologygames.eu'
 languageCode = 'en-gb'
 title = 'Ecology Games'
 theme = 'hugo-scroll'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
   favicon = ""
