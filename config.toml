@@ -11,7 +11,7 @@ theme = 'hugo-scroll'
 [params]
   favicon = ""
   site_logo = ""
-  description = "Educational games about ecology and the environment"
+  description = "Games about ecology and the environment"
   facebook = ""
   twitter = ""
   instagram = ""
