@@ -46,7 +46,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "https://paidia.design/"
+            --baseURL "https://raccoonrampage.ecologygames.eu"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
