@@ -14,12 +14,19 @@
     {{ $scriptIcons := resources.Get "js/icons.js" }}
     {{ $scriptIndex := resources.Get "js/index.js" }}
     {{ $scriptPolyfill := resources.Get "js/css-vars-ponyfill.min.js" }}
-    {{ $js := slice $scriptJquery $scriptIcons $scriptIndex $scriptPonyfill | resources.Concat "js/script.js" | resources.Minify | resources.Fingerprint }}
+    {{ $js := slice $scriptJquery $scriptIcons $scriptIndex $scriptPolyfill | resources.Concat "js/script.js" | resources.Minify | resources.Fingerprint }}
 
     <script src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}" ></script>
 
-    <!-- activate css-vars-ponyfill.min.js -->
-    <script>cssVars();</script>
+     <!-- activate css-vars-ponyfill.min.js -->
+     <script>
+      // Ensure cssVars function is defined before calling it
+      if (typeof cssVars === 'function') {
+        cssVars();
+      } else {
+        console.error('cssVars is not defined');
+      }
+    </script>
 
     <!-- A partial to be overwritten by the user.
              Simply place a custom_body.html into
