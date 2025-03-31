@@ -26,7 +26,9 @@ jobs:
     steps:
       - name: Debug public directory
         run: |
+          echo "Listing contents of the current directory:"
           ls -R ./public
+          ls -R ./public || echo "Public directory not found"
       - name: Install Hugo CLI
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
