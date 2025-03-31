@@ -24,11 +24,6 @@ jobs:
     env:
       HUGO_VERSION: 0.140.2
     steps:
-      - name: Debug public directory
-        run: |
-          echo "Listing contents of the current directory:"
-          ls -R ./public
-          ls -R ./public || echo "Public directory not found"
       - name: Install Hugo CLI
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
@@ -52,6 +47,13 @@ jobs:
           hugo \
             --minify \
             --baseURL "https://raccoonrampage.ecologygames.eu"
+      # Debug step to inspect the build output
+      - name: Debug Hugo build output
+        run: |
+          echo "Listing contents of the current directory:"
+          ls -R
+          echo "Listing contents of the public directory:"
+          ls -R ./public || echo "Public directory not found"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
