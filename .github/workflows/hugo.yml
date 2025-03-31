@@ -47,6 +47,11 @@ jobs:
           hugo \
             --minify \
             --baseURL "https://raccoonrampage.ecologygames.eu"
+      - name: Preload upload-artifact action
+        uses: actions/upload-artifact@v3
+        with:
+          name: dummy
+          path: ./dummy
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
