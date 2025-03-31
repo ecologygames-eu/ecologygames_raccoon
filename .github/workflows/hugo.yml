@@ -48,7 +48,7 @@ jobs:
             --minify \
             --baseURL "https://raccoonrampage.ecologygames.eu"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
