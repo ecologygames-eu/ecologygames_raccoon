@@ -55,11 +55,10 @@ jobs:
           echo "Listing contents of the public directory:"
           ls -R ./public || echo "Public directory not found"
       # Upload the public directory as an artifact
-      - name: Upload public directory as artifact
-        uses: actions/upload-artifact@v4
+      - name: Upload artifact for GitHub Pages
+        uses: actions/upload-pages-artifact@v1
         with:
-          name: public
-          path: ./public
+          path: ./publicc
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
