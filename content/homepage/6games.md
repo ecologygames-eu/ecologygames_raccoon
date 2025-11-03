@@ -4,6 +4,7 @@ header_menu_title: "The Game"
 navigation_menu_title: "The Game"
 weight: 6
 header_menu: true
+image: "images/raccoon-rampage-mainpic.jpg"
 ---
 
 <!--
@@ -18,7 +19,7 @@ That is the important part, right? You want to know what I can do for you. This 
 ---
 Raccoons have invaded Europe (🦝) and they're destroying so much stuff! In this fast paced, semi-cooperative game you will work together with other players to stop raccoons from messing up our houses, eating our local wildlife, and causing mischief. At the same time you'll try to make sure YOU come out on top.
 
-![image of Raccoon Rampage on a table](images/glamourshot.jpg)
+![image of Raccoon Rampage on a table](images/raccoon-rampage-mainpic.jpg)
 
 BioInvaders! Raccoon Rampage features a mix of strategic planning and social negotiation.  Playing as 1 of 4 unique roles, from Hunter to Animal Rights Activist, you pick policies to put into a queue, vote on policies *in* the queue, and dabble in chaos using action cards that manipulate things in your favour.  
 

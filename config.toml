@@ -2,6 +2,7 @@ baseURL = 'https://raccoonrampage.ecologygames.eu'
 languageCode = 'en-gb'
 title = 'Ecology Games'
 theme = 'hugo-scroll'
+image = "images/raccoon-rampage-mainpic.jpg"
 
 [markup]
   [markup.goldmark]
