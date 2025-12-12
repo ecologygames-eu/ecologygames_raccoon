@@ -21,7 +21,7 @@ header_menu: true
 
 ![Play on Tabletopia](images/tabletopia.png)
 
-You can [play our game on Tabletopia](https://tabletopia.com/games/bioinvasions-raccoon-rampage) or print and play it at home. Either way, it's completely free.   
+You can [play our game on Tabletopia](https://tabletopia.com/games/bioinvasions-raccoon-rampage) or print and [play it at home](https://drive.google.com/file/d/1-oQcKtX3N1mbaKjmIIQhNDENguV8Dkb6/view?usp=sharing). Either way, it's completely free.   
 
 Playing the game on Tabletopia should work on most computers and in most web browsers. We find it works best in Chrome. It's hard to play with a trackpad so try to find a mouse if you can.
 
